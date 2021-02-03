@@ -12,7 +12,7 @@ This privacy policy applies to the Discord bot....
 
 The prefix data is stored only for the bot to function and is not shared with anyone else or used for any other reason. The data is stored on Google Cloud.
 
-To contact me ([Advaith](https://advaith.io)), the developer of AdvaithBot, if you want the data to be removed or for any other reason, you can DM SuperTrouper#7093 (`190916650143318016`) in the official [Support Server](https://discord.gg/kz2ab6RRuk).
+To contact me ([Advaith](https://advaith.io)), the developer of AdvaithBot, if you want the data to be removed or for any other reason, you can mention (what you call as ping {@}) SuperTrouper#7093 (7292164288294**42069**) in the official [Support Server](https://discord.gg/kz2ab6RRuk).
 
 See [Discord's Privacy Policy](https://discord.com/privacy).
 
