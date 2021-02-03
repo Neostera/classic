@@ -13,7 +13,7 @@ Smile has many new commands! check it out!
 
 # Try it out!
 Type `!!help` to get started.
-<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
 
 # Commands
 The prefix for all commands is `,` by default. Set a custom server prefix with the `prefix` command!
