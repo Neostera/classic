@@ -159,4 +159,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 
 Smile was created by [rammamia](rammamia.github.io).
 
-<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/399069831820869632" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
