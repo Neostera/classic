@@ -1,10 +1,10 @@
-Welcome to the AdvaithBot website.
+Welcome to the SMILEbot website.
 
-AdvaithBot is a multipurpose Discord bot.
+SMILE is a multipurpose Discord bot.
 
-AdvaithBot has received a huge update with lots of new commands and features! Check them out!
+SMILE has received a huge update with lots of new commands and features! Check them out!
 
-<a href="invite" target="_blank" rel="noopener">Add AdvaithBot to your server!</a>
+<a href="invite" target="_blank" rel="noopener">Add SMILE to your server!</a>
 
 <a href="https://discord.gg/WxPH3Fc" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" alt="Discord" layout="fixed" height="140" width="320"><noscript><img class="rounded" src="https://discordapp.com/api/guilds/398998849026261003/embed.png?style=banner3" width="320" height="140" alt="Discord"></noscript></amp-img></a>
 <a href="https://botsfordiscord.com/bot/398690824721924107/vote" target="_blank" rel="noopener"><amp-img class="rounded" src="https://botsfordiscord.com/api/bot/398690824721924107/widget?theme=dark" alt="Bots for Discord" layout="fixed" height="150" width="300"><noscript><img class="rounded" src="https://botsfordiscord.com/api/bot/398690824721924107/widget?theme=dark" width="300" height="150" alt="Bots for Discord"></noscript></amp-img></a>
@@ -36,8 +36,8 @@ The prefix for all commands is `!!` by default. Set a custom server prefix with 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
 `help` | `h` | Sends the command list or info for a specific command | Command or module name (Optional) | `!!help`, `!!help fun`, `!!help 8ball`
-`info` | none | Some info about the bot | none | `!!info`
-`invite` | none | Sends the link to add the bot | none | `!!invite`
+`ifo` | none | Some info about the bot | none | `!!info`
+`TEST` | none | Sends the link to add the bot | none | `!!invite`
 `mutuals ` | none | Your mutual servers with AdvaithBot | none | `!!mutuals`
 `ping` | none | 🏓 Checks how fast the bot is responding | none | `!!ping`
 `prefix` | none | Change the server prefix | New prefix (optional) | `!!prefix -`
