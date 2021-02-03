@@ -8,7 +8,7 @@ This privacy policy applies to the Discord bot....
 
 ---
 
-`Smile does not store any data. If a server member with the Manage Server permission uses the `prefix` command to change the bot's prefix, then the server's automatically-generated Discord ID (for example, `728813015016669274`) will be stored in the bot's database along with the provided prefix. No other data relating to the server is stored. Smile never stores data specific to users!`
+***Smile does not store any data. If a server member with the Manage Server permission uses the `prefix` command to change the bot's prefix, then the server's automatically-generated Discord ID (for example, `728813015016669274`) will be stored in the bot's database along with the provided prefix. No other data relating to the server is stored. Smile never stores data specific to users!***
 
 The prefix data is stored only for the bot to function and is not shared with anyone else or used for any other reason. The data is stored on Google Cloud.
 
