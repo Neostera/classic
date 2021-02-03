@@ -12,14 +12,14 @@ Smile has many new commands! check it out!
 <a href="https://discordbotlist.com/bots/398690824721924107/upvote" target="_blank" rel="noopener"><amp-img class="rounded" src="https://discordbotlist.com/bots/398690824721924107/widget" alt="Discord Bot List" layout="fixed" height="140" width="380"><noscript><img class="rounded" src="https://discordbotlist.com/bots/398690824721924107/widget" width="380" height="140" alt="Discord Bot List"></noscript></amp-img></a>
 
 # Try it out!
-Type `!!help` to get started.
+Type `,help` to get started.
 <amp-iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
 
 # Commands
 The prefix for all commands is `,` by default. Set a custom server prefix with the `prefix` command!
 
 ### Jump To:
-* [Soon](#️soon1)
+* [Soon](#soon1)
 * [Soon](#soon2)
 * [Soon](#soon3)
 * [Soon](#soon4)
