@@ -1,8 +1,8 @@
-# AdvaithBot Privacy Policy
+# Smile Privacy Policy
 
 Last updated and effective: July 2, 2020
 
-This privacy policy applies to the Discord bot AdvaithBot#2249.
+This privacy policy applies to the Discord bot....
 
 **This website does not directly store data but uses Google Analytics. [Analytics Privacy Info](https://policies.google.com/technologies/partner-sites)**.
 
