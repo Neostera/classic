@@ -33,7 +33,7 @@ The prefix for all commands is `,` by default. Set a custom server prefix with t
 
 ## Soon1
 
-Command | Aliases | Description | Arguments | Examples
+Command | Aliases | Description | Arguments | Examples | Required Permission
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -44,7 +44,7 @@ Command | Aliases | Description | Arguments | Examples
 
 ## Soon2
 
-Command | Aliases | Description | Arguments | Example
+Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -55,7 +55,7 @@ Command | Aliases | Description | Arguments | Example
 
 ## Soon3
 
-Command | Aliases | Description | Arguments | Example
+Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -66,7 +66,7 @@ Command | Aliases | Description | Arguments | Example
 
 ## Soon4
 
-Command | Aliases | Description | Arguments | Example
+Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -77,7 +77,7 @@ Command | Aliases | Description | Arguments | Example
 
 ## Soon5
 
-Command | Aliases | Description | Arguments | Example
+Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -89,7 +89,7 @@ Command | Aliases | Description | Arguments | Example
 ## Soon6
 SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoon
 
-Command | Aliases | Description
+Command | Aliases | Description | Example | Required Permission
 ---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -100,7 +100,7 @@ Command | Aliases | Description
 
 ## Soon7
 
-Command | Aliases | Description | Arguments | Example
+Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -124,7 +124,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 ## Soon9
 SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoon
 
-Command | Aliases | Description
+Command | Aliases | Description | Example | Required Permission
 ---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -136,7 +136,7 @@ Command | Aliases | Description
 ## Soon10
 SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonv
 
-Command | Aliases | Description | Arguments | Example
+Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -148,7 +148,7 @@ Command | Aliases | Description | Arguments | Example
 ## Soon11
 SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonv
 
-Command | Description | Example
+Command | Description | Example | Required Permission
 ---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
