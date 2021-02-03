@@ -16,7 +16,7 @@ Type `!!help` to get started.
 <amp-iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/398998849026261003/567105339384660003" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
 
 # Commands
-The prefix for all commands is `!!` by default. Set a custom server prefix with the `prefix` command!
+The prefix for all commands is `,` by default. Set a custom server prefix with the `prefix` command!
 
 ### Jump To:
 * [Soon](#️-system-commands)
@@ -35,19 +35,7 @@ The prefix for all commands is `!!` by default. Set a custom server prefix with 
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
-`Soon` | Soon | Sends the command list or info for a specific command | Command or module name (Optional) | `!!help`, `!!help fun`, `!!help 8ball`
-`Soon` | Soon | Some info about the bot | none | `!!info`
-`Soon` | Soon | Sends the link to add the bot | none | `!!invite`
-`Soon ` | Soon | Your mutual servers with AdvaithBot | none | `!!mutuals`
-`Soon` | Soon | 🏓 Checks how fast the bot is responding | none | `!!ping`
-`Soon` | Soon | Change the server prefix | New prefix (optional) | `!!prefix -`
-`Soon` | Soon | Sends the link to the AdvaithBot server | none | `!!support`
-
-## Soon
-
-Command | Aliases | Description | Arguments | Example
----|---|---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -58,18 +46,7 @@ Command | Aliases | Description | Arguments | Example
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-`Soon` | Soon | Soon | Soon | `Soon`
-
-## Soon
-
-Command | Aliases | Description | Arguments | Example
----|---|---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -80,7 +57,29 @@ Command | Aliases | Description | Arguments | Example
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+
+## Soon
+
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
+
+## Soon
+
+Command | Aliases | Description | Arguments | Example
+---|---|---|---|---
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -92,7 +91,7 @@ SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoon
 
 Command | Aliases | Description
 ---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -103,7 +102,7 @@ Command | Aliases | Description
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -115,7 +114,7 @@ Command | Aliases | Description | Arguments | Example
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -127,7 +126,7 @@ SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoon
 
 Command | Aliases | Description
 ---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -139,7 +138,7 @@ SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonv
 
 Command | Aliases | Description | Arguments | Example
 ---|---|---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
@@ -151,7 +150,7 @@ SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonv
 
 Command | Description | Example
 ---|---|---
-`Soon` |  Soon| Soon | Soon | `Soon`
+`Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
