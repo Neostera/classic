@@ -33,7 +33,7 @@ The prefix for all commands is `,` by default. Set a custom server prefix with t
 
 ## Soon1
 
-Command | Aliases | Description | Arguments | Example
+Command | Aliases | Description | Arguments | Examples
 ---|---|---|---|---
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
