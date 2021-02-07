@@ -13,7 +13,7 @@ Smile has many new commands! check it out!
 
 # Try it out!
 Type `,help` to get started.
-<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590037/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590037/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
 
 # Commands
 The prefix for all commands is `,` by default. Set a custom server prefix with the `prefix` command!
@@ -32,6 +32,7 @@ The prefix for all commands is `,` by default. Set a custom server prefix with t
 * [No Category](#uncategorized)
 
 ## Animals
+See a multitude of animals from various APIs!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -43,6 +44,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Bible
+Read some verses from the Bible!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -54,6 +56,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Fun
+Some commands which will make you Smile!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -65,6 +68,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## GetStarted
+Commands Showing how to make the bot run smoothly!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -76,6 +80,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Images
+See images.. obviously... (you can make some memes)
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -87,7 +92,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Miscellaneous
-SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoon
+as it says **misc**
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -99,6 +104,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Moderation
+Great commands used to manage your server!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -111,6 +117,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 
 
 ## MyInfo
+Some of the bot's info!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -122,7 +129,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Utilities
-SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoon
+Guild Management and more!
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -134,7 +141,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Modules
-SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonv
+Command Categories
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -145,8 +152,8 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 
-## uncategorized
-SoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonSoonv
+## Uncategorized
+List of commands which arent categorized.... yet
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -159,4 +166,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 
 Smile was created by [rammamia](rammamia.github.io).
 
-<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/728813015016669274/801255994491273246" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590037/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590037/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
