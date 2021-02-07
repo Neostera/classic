@@ -1,29 +1,29 @@
 {
-  "short_name": "AdvaithBot",
-  "name": "AdvaithBot",
+  "short_name": "Smile",
+  "name": "Smile",
   "icons": [
     {
-      "src": "https://advaithbot.xyz/files/optimized.png",
+      "src": "https://smilebcord.github.io/files/optimized.png",
       "type": "image/png",
       "sizes": "1414x1406"
     },
     {
-      "src": "https://advaithbot.xyz/files/advaithbot.webp",
+      "src": "https://smilebcord.github.io/files/advaithbot.webp",
       "type": "image/webp",
       "sizes": "1414x1406"
     },
     {
-      "src": "https://advaithbot.xyz/files/logo-square.png",
+      "src": "https:/smilebcord.github.io/files/logo-square.png",
       "type": "image/png",
       "sizes": "1406x1406"
     },
     {
-      "src": "https://advaithbot.xyz/files/logo-512.png",
+      "src": "https://smilebcord.github.io/files/logo-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "https://advaithbot.xyz/files/logo-192.png",
+      "src": "https://smilebcord.github.io/files/logo-192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
@@ -32,5 +32,5 @@
   "background_color": "#171717",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#00AFD5"
+  "theme_color": "#FF0000"
 }
