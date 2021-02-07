@@ -1,5 +1,7 @@
 Smile Bot Website.
+
 Smile is a multipurpose Discord bot.
+
 Smile has many new commands! check it out!
 
 # Try it out!
