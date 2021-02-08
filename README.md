@@ -1,8 +1,8 @@
-Smile Bot Website.
+Jazzram Website.
 
-Smile is a multipurpose Discord bot.
+Jazzram is a multipurpose Discord bot.
 
-Smile has many new commands! check it out!
+Jazzram has many new commands! check it out!
 
 # Try it out!
 Type `,help` to get started.
@@ -157,4 +157,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 
-Smile was created by [rammamia](rammamia.github.io).
+Jazzram was created by [rammamia](rammamia.github.io).
