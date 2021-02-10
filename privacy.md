@@ -1,6 +1,6 @@
-# Smile Privacy Policy
+# RamBot Privacy Policy
 
-Last updated and effective: July 2, 2020
+Last updated and effective: February 10, 2021
 
 This privacy policy applies to the Discord bot....
 
@@ -8,14 +8,14 @@ This privacy policy applies to the Discord bot....
 
 ---
 
-***Smile does not store any data. If a server member with the Manage Server permission uses the `prefix` command to change the bot's prefix, then the server's automatically-generated Discord ID (for example, `728813015016669274`) will be stored in the bot's database along with the provided prefix. No other data relating to the server is stored. Smile never stores data specific to users!***
+RamBot does not store any data. If a server member with the Manage Server permission uses the `prefix` command to change the bot's prefix, then the server's automatically-generated Discord ID (for example, 728813015016669274) will be stored in the bot's database along with the provided prefix. No other data relating to the server is stored. RamBot never stores data specific to users!
 
-The prefix data is stored only for the bot to function and is not shared with anyone else or used for any other reason. The data is stored on Google Cloud.
+The prefix data is stored only for the bot to function and is not shared with anyone else or used for any other reason. The data is stored on VS Code.
 
-To contact ([me](https://rammamia.github.io)), the developer of AdvaithBot, if you want the data to be removed or for any other reason, you can mention (what you call as ping {@}) SuperTrouper#7093 (7292164288294**42069**) in the official [Support Server](https://discord.gg/kz2ab6RRuk).
+To contact ([me](https://ramjams.github.io)), the developer of RamBot, if you want the data to be removed or for any other reason, you can mention (what you call as ping @RamJams#7093) RamJams#7093 (7292164288294**42069**) in the official [Support Server](https://discord.gg/kz2ab6RRuk).
 
 See [Discord's Privacy Policy](https://discord.com/privacy).
 
-Thanks for using Smile!
+Thanks for using RamBot!
 
 [Homepage](/)
