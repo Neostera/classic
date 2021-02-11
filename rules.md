@@ -41,7 +41,6 @@ Last updated and effective: February 11, 2021
 
 18. Please do not Mini-mod. We have staff for that and DO NOT DM us to watch a chat. Odds are, we already are.
 ---
----
 Pings @mentions : When can/can’t I ping?
 ○ Pinging staff for support, spam pinging then, and pinging them for no reason, is out of the question.
 
@@ -54,7 +53,6 @@ Pings @mentions : When can/can’t I ping?
 ○ Pinging members for support and/or spam pinging is also NOT allowed. If a member has said they don’t want pings, don’t ping them. Staff won’t ping you after you have said this.
 
 ○ Quote pings are normally okay, but please DO NOT be overly obnoxious about this and quote everything they say to get away with it. This will be considered as ignoring and a warn issued.
----
 ---
 Punishments
 Offence # - Actions
