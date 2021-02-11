@@ -1,29 +1,29 @@
 {
-  "short_name": "RamBot",
-  "name": "RamBot",
+  "short_name": "Vox",
+  "name": "VoxBot",
   "icons": [
     {
-      "src": "https://ramb0t.github.io/files/optimized.png",
+      "src": "https://voxbot.github.io/files/optimized.png",
       "type": "image/png",
       "sizes": "1414x1406"
     },
     {
-      "src": "https://ramb0t.github.io/files/advaithbot.webp",
+      "src": "https://voxbot.github.io/files/advaithbot.webp",
       "type": "image/webp",
       "sizes": "1414x1406"
     },
     {
-      "src": "https:/ramb0t.github.io/files/logo-square.png",
+      "src": "https:/voxbot.github.io/files/logo-square.png",
       "type": "image/png",
       "sizes": "1406x1406"
     },
     {
-      "src": "https://ramb0t.github.io/files/logo-512.png",
+      "src": "https://voxbot.github.io/files/logo-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "https://ramb0t.github.io/files/logo-192.png",
+      "src": "https://voxbot.github.io/files/logo-192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
