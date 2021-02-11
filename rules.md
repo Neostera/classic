@@ -21,7 +21,7 @@ Last updated and effective: February 11, 2021
 
 8. No spam of ANY kind is allowed, this includes but not limited to @mention spam, reaction spam, copy/paste text walls, and flooding channels.
 
-9. This is an English based server, if you need help in another language please use #deleted-channel
+9. This is an English based server, if you need help in another language please use #international
 
 10. No begging for a role. We don't need it and if we think you deserve a role we will give it to you. If you do beg then most likely you won’t get it
 
