@@ -1,8 +1,8 @@
-Jazzram Website.
+VoxBot Website.
 
-Jazzram is a multipurpose Discord bot.
+VoxBot is a multipurpose Discord bot.
 
-Jazzram has many new commands! check it out!
+VoxBot has many new commands! check it out!
 
 # Try it out!
 Type `,help` to get started.
@@ -157,4 +157,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 
-Jazzram was created by [rammamia](https://rammamia.github.io).
+VoxBot was created by [RamJams](https://RamJams.github.io).
