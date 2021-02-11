@@ -5,7 +5,8 @@ Last updated and effective: February 11, 2021
 ---
 **Server Rules**
 
-```1. Follow Discord's Terms of Services and Community Guidelines. Claiming/making jokes about breaking discord's ToS will result in a ban from the server and your account will be reported to discord.
+```
+1. Follow Discord's Terms of Services and Community Guidelines. Claiming/making jokes about breaking discord's ToS will result in a ban from the server and your account will be reported to discord.
 
 2. Absolutely NO Ads of any kind. This includes but not limited to Other Discord servers or any form of social media
 
