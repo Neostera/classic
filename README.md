@@ -8,6 +8,9 @@ VoxBot has many new commands! check it out!
 Type `,help` to get started.
 <amp-iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
 
+# Some Tutorials!
+<iframe width="727" height="409" src="https://www.youtube.com/embed/xvFZjo5PgG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Commands
 The prefix for all commands is `,` by default. Set a custom server prefix with the `prefix` command!
 
