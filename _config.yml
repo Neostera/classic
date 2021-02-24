@@ -3,7 +3,7 @@ title: VoxBot
 image: https://VoxBot.github.io/files/logo.png
 url: https://VoxBot.github.io
 description: VoxBot is a feature-rich Discord bot. It has epic commands which will make you smile!
-darkmode: true
+darkmode: false
 colors:
     gradient_left: "#FF0000"
     gradient_right: "#FFFFFF"
