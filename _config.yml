@@ -4,11 +4,7 @@ title: Stratobot
 image: https://stratobot.github.io/files/star_purple.png
 url: https://stratobot.github.io
 description: Stratobot is a feature-rich Discord bot. It has epic commands which will make you smile!
-darkmode: false
-colors:
-    gradient_left: "#FF0000"
-    gradient_right: "#FFFFFF"
-    header: "#fff"
-    android_theme: "#000"
-    link: "#FF0000" 
-    section_title: "#FF0000"
+color:
+  header: "#bf75f8"
+  gradient_left: "#8F00FF"
+  gradient_right: "#000"
