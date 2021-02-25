@@ -157,4 +157,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 
-Stratobot was created by [AirSupplier#7093](https://airsupplier.github.io).
+Stratobot was created by [AirSupplier](https://airsupplier.github.io).
