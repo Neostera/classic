@@ -1,10 +1,10 @@
-remote_theme: tuur29/pages-themes-cayman
 theme: jekyll-theme-cayman
 title: Stratobot
 image: https://stratobot.github.io/files/star_purple.png
 url: https://stratobot.github.io
 description: Stratobot is a feature-rich Discord bot. It has epic commands which will make you smile!
+remote_theme: tuur29/pages-themes-cayman
 color:
-  header: "#bf75f8"
+  header: "#fff"
   gradient_left: "#8F00FF"
   gradient_right: "#000"
