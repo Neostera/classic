@@ -146,7 +146,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Uncategorized
-List of commands which arent categorized.... yet
+List of commands which arent categorized...
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -157,4 +157,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 
-VoxBot was created by [AirSupplier#7093](https://airsupplier.github.io).
+Stratobot was created by [AirSupplier#7093](https://airsupplier.github.io).
