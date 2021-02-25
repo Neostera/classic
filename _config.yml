@@ -1,14 +1,14 @@
 remote_theme: tuur29/pages-themes-cayman
 theme: jekyll-theme-cayman
 title: VoxBot
-image: https://VoxBot.github.io/files/logo.png
-url: https://VoxBot.github.io
-description: VoxBot is a feature-rich Discord bot. It has epic commands which will make you smile!
+image: https://stratobot.github.io/files/logo.png
+url: https://stratobot.github.io
+description: Stratobot is a feature-rich Discord bot. It has epic commands which will make you smile!
 darkmode: false
 colors:
     gradient_left: "#FF0000"
     gradient_right: "#FFFFFF"
     header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#FF0000" # this default to gradient_color
-    section_title: "#FF0000" # this default to gradient_color
+    android_theme: "#000"
+    link: "#FF0000" 
+    section_title: "#FF0000"
