@@ -1,31 +1,12 @@
 {
-  "short_name": "Vox",
-  "name": "VoxBot",
+  "short_name": "Strat",
+  "name": "stratobot",
   "icons": [
     {
-      "src": "https://voxbot.github.io/files/optimized.png",
+      "src": "https://stratobot.github.io/files/logo.png",
       "type": "image/png",
       "sizes": "1414x1406"
-    },
-    {
-      "src": "https://voxbot.github.io/files/advaithbot.webp",
-      "type": "image/webp",
-      "sizes": "1414x1406"
-    },
-    {
-      "src": "https:/voxbot.github.io/files/logo-square.png",
-      "type": "image/png",
-      "sizes": "1406x1406"
-    },
-    {
-      "src": "https://voxbot.github.io/files/logo-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "https://voxbot.github.io/files/logo-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+
     }
   ],
   "start_url": "/",
@@ -34,3 +15,4 @@
   "scope": "/",
   "theme_color": "#157976"
 }
+
