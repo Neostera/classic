@@ -12,10 +12,10 @@ VoxBot does not store any data. If a server member with the Manage Server permis
 
 The prefix data is stored only for the bot to function and is not shared with anyone else or used for any other reason. The data is stored on VS Code.
 
-To contact ([me](https://ramjams.github.io)), the developer of RamBot, if you want the data to be removed or for any other reason, you can mention (what you call as ping @RamJams#7093) RamJams#7093 (7292164288294**42069**) in the official [Support Server](https://discord.gg/kz2ab6RRuk).
+To contact ([me](https://AirSupplier.github.io)), the developer of Stratobot, if you want the data to be removed or for any other reason, you can mention (what you call as ping @AirSupplier#7093) AirSupplier#7093 (7292164288294**42069**) in the official [Support Server](https://discord.gg/kz2ab6RRuk).
 
 See [Discord's Privacy Policy](https://discord.com/privacy).
 
-Thanks for using VoxBot!
+Thanks for using Stratobot!
 
 [Homepage](/)
