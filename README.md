@@ -1,15 +1,12 @@
-VoxBot Website.
+Stratobot Website.
 
-VoxBot is a multipurpose Discord bot.
+Stratobot is a multipurpose Discord bot.
 
-VoxBot has many new commands! check it out!
+Stratobot has many new commands! check it out!
 
 # Try it out!
 Type `,help` to get started.
 <amp-iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"><noscript><iframe class="rounded" src="https://e.widgetbot.io/channels/562556870741590036/807840721943658527" height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe></noscript></amp-iframe>
-
-# Some Tutorials!
-<iframe width="727" height="409" src="https://www.youtube.com/embed/xvFZjo5PgG0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Commands
 The prefix for all commands is `,` by default. Set a custom server prefix with the `prefix` command!
@@ -160,4 +157,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 
-VoxBot was created by [RamJams](https://RamJams.github.io).
+VoxBot was created by [AirSupplier#7093](https://airsupplier.github.io).
