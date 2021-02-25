@@ -2,11 +2,11 @@
 layout: pw
 ---
 
-VoxBot Website.
+Stratobot Website.
 
-VoxBot is a multipurpose Discord bot.
+Stratobot is a multipurpose Discord bot.
 
-VoxBot has many new commands! check it out!
+Stratobot has many new commands! check it out!
 
 # Try it out!
 Type `,help` to get started.
@@ -150,7 +150,7 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 
 ## Uncategorized
-List of commands which arent categorized.... yet
+List of commands which arent categorized...
 
 Command | Aliases | Description | Arguments | Example | Required Permission
 ---|---|---|---|---|---
@@ -161,4 +161,4 @@ Command | Aliases | Description | Arguments | Example | Required Permission
 `Soon` | Soon | Soon | Soon | `Soon`
 `Soon` | Soon | Soon | Soon | `Soon`
 
-VoxBot was created by [RamJams](https://RamJams.github.io).
+Stratobot was created by [AirSupplier](https://airsupplier.github.io).
