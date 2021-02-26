@@ -1,0 +1,13 @@
+remote_theme: tuur29/pages-themes-cayman
+theme: jekyll-theme-cayman
+title: Stratobot
+image: https://stratobot.github.io/files/logo.png
+url: https://stratobot.github.io
+description: Stratobot is a multipurpose bot with many purposes. It has epic commands which will make you smile!
+colors:
+    gradient_left: "#8F00FF"
+    gradient_right: "#000"
+    header: "#fff"
+    android_theme: "#000"
+    link: "#FF0000" 
+    section_title: "#FF0000"
