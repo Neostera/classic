@@ -1,21 +1,21 @@
 ## Partners
 
-[Nethra](https://nethrabot.github.io)
+# [Nethra](https://nethrabot.github.io)
 Nethra is a multipurpose bot which has moderation, economy, reaction roles, and **more**!
 ---
 
-[Privacy](/pages/thanks)
+# [Privacy](/pages/thanks)
 
 ---
 
-[Thanks](/pages/thanks)
+# [Thanks](/pages/thanks)
 
 ---
 
-[Beta](/pages/beta)
+# [Beta](/pages/beta)
 
 ---
 
-[Partners](/pages/partners)
+# [Partners](/pages/partners)
 
 ---
